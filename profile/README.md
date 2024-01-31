@@ -10,8 +10,8 @@ GatherGo is a public transportation system committed to making commuting more ef
 
 ### Web Applications 💻
 
-- **Project 1**: Description of Project 1.
-- **Project 2**: Description of Project 2.
+- **Project 1**: GatherGo Backend .
+- **Project 2**: GatherGo Frontend.
 - **Project 3**: Description of Project 3.
 
 ### Mobile Applications 📱
